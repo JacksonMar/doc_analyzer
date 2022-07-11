@@ -1,0 +1,12 @@
+setup.py
+doc_analyzer/__init__.py
+doc_analyzer/__main__.py
+doc_analyzer.egg-info/PKG-INFO
+doc_analyzer.egg-info/SOURCES.txt
+doc_analyzer.egg-info/dependency_links.txt
+doc_analyzer.egg-info/requires.txt
+doc_analyzer.egg-info/top_level.txt
+doc_analyzer/link_analyzer/__init__.py
+doc_analyzer/link_analyzer/module_link_analyzer.py
+doc_analyzer/pdf_analyzer/__init__.py
+doc_analyzer/pdf_analyzer/module_pdf_analyzer.py
